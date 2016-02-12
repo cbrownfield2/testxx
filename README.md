@@ -1,1 +1,2 @@
-TestXX a C++ test suite by Cameron Brownfield
+# testXx
+C++ test suite by Cameron Brownfield
